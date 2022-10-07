@@ -6,10 +6,3 @@ Summary:
 This is snake game using Glut and OpenGL from module 4, I use polymorphism from module 2 with the subclass snake which has functions for checking overlap and score counting.
 You start the game by pressing 's', the score is posted in the center of the screen and will add once per eaten apple.
 You cannot touch the sides of the screen, and the head cannot touch the tail otherwise you will lose the game.
-
-Grade Deserved:
-B - B+
-I designed the program with modules 2 and 4 in mind, and I believe in that regard it was well designed and met specs
-The program has a clear cut goal and I believe it functions within the parameters of a snake game
-The game is fully playable and usable
-I wanted to add another piece of functionality that would make this on the level of a final but I feel this is on the level of an open ended as it stands
