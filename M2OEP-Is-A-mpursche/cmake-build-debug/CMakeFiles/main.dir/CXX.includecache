@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/M2OEP-Is-A-mpursche/Airplane.cpp
+Airplane.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/M2OEP-Is-A-mpursche/Airplane.h
+iostream
+-
+
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/M2OEP-Is-A-mpursche/Airplane.h
+vector
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/M2OEP-Is-A-mpursche/vector
+istream
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/M2OEP-Is-A-mpursche/istream
+ostream
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/M2OEP-Is-A-mpursche/ostream
+Vehicle.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/M2OEP-Is-A-mpursche/Vehicle.h
+
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/M2OEP-Is-A-mpursche/Vehicle.h
+vector
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/M2OEP-Is-A-mpursche/vector
+istream
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/M2OEP-Is-A-mpursche/istream
+ostream
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/M2OEP-Is-A-mpursche/ostream
+
