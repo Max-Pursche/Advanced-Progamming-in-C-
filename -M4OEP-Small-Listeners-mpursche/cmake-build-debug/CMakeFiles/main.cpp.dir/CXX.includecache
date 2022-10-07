@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files/Common Files/freeglut/include/GL/freeglut_std.h
+windows.h
+-
+EGL/egl.h
+-
+GLES/gl.h
+-
+GLES2/gl2.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+stdlib.h
+-
+
+C:/Program Files/Common Files/freeglut/include/GL/glut.h
+freeglut_std.h
+C:/Program Files/Common Files/freeglut/include/GL/freeglut_std.h
+
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/Quad.cpp
+Quad.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/Quad.h
+
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/Quad.h
+graphics.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/graphics.h
+shape.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/shape.h
+
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/circle.cpp
+circle.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/circle.h
+graphics.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/graphics.h
+
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/circle.h
+shape.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/shape.h
+
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/graphics.cpp
+graphics.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/graphics.h
+Quad.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/Quad.h
+Quad.cpp
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/Quad.cpp
+shape.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/shape.h
+shape.cpp
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/shape.cpp
+circle.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/circle.h
+circle.cpp
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/circle.cpp
+iostream
+-
+time.h
+-
+vector
+-
+
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/graphics.h
+stdlib.h
+-
+windows.h
+-
+sys/time.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/shape.cpp
+shape.h
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/shape.h
+iostream
+-
+
+C:/Users/mrgat/OneDrive/Desktop/Crack Code/CS120 Advanced C++/-M4OEP-Small-Listeners-mpursche/shape.h
+math.h
+-
+string
+-
+
